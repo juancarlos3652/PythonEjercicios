@@ -1,0 +1,2 @@
+Las prinicipal ventaja de un programación recursiva, es que se puede reducir lineas de código, también permite tener
+una solución más sencilla a problemas complejos. 
