@@ -4,6 +4,6 @@ def pasosRobot(n):
     elif n==3:
         return n+1
     else:
-        return pasosRobot(n-1)+pasosRobot(n-2)+ pasosRobot(n-3)
+        return pasosRobot(n-3)+pasosRobot(n-2)+ pasosRobot(n-1)
 print(pasosRobot(4))
 
